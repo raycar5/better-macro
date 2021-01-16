@@ -19,4 +19,4 @@ better_macro::println!("Hello world!");
 ```
 
 ## I really hope you enjoy this very awesome and useful crate.
-![crab](https://steamuserimages-a.akamaihd.net/ugc/963099006708823417/D8CD3C01CF80CA078B071C32AFD1923A2D875BEF/)
+![crab](https://github.com/raycar5/better-macro/raw/master/crab_rave.gif)
