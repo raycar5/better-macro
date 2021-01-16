@@ -1,0 +1,12 @@
+[package]
+authors = ["raycar5 <raycar5@users.noreply.github.com>"]
+edition = "2018"
+name = "better-macro"
+version = "1.0.0"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+proc-macro2 = "1.0"
+quote = "1.0"
