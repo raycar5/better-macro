@@ -7,7 +7,7 @@ license = "MIT"
 name = "better-macro"
 readme = "README.md"
 repository = "https://github.com/raycar5/better-macro"
-version = "1.0.1"
+version = "1.0.2"
 
 [lib]
 proc-macro = true
