@@ -2,7 +2,7 @@
 authors = ["raycar5 <raycar5@users.noreply.github.com>"]
 description = "This crate provides better versions of common macros like println."
 edition = "2018"
-keywords = ["macro", "proc", "proc macro", "security"]
+keywords = ["macro", "proc", "proc-macro", "security"]
 license = "MIT"
 name = "better-macro"
 readme = "README.md"
